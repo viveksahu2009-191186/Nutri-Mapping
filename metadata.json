@@ -1,0 +1,7 @@
+{
+  "name": "NutriMap AI",
+  "description": "An intelligent nutrient mapping application that uses Gemini AI to analyze food from photos or text, providing deep insights into macro and micro-nutrients relative to your personal RDA goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
